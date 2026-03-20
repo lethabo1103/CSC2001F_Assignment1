@@ -7,7 +7,7 @@
 This Java project manages South African place names.  
 It includes classes for storing place names (`PlaceNameArray`), searching for them (`PlaceSearchArray`), and running experiments (`Experiment`) to analyze search performance.  
 
-## How to Run
+## How to Run the files using
 1. **Compile all Java files**:
    ```bash
    make
